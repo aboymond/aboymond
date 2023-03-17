@@ -1,6 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&color=gradient&height=100)
 
+![](https://media.tenor.com/rf6V3V83et8AAAAC/synthwave-jr.gif)
+
 ## Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboymond&show_icons=true&theme=dracula)
