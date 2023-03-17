@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&color=gradient&height=100)
 
 <p align="center">
-   <img src="https://media3.giphy.com/media/l0Iy93fzhI5okQIPm/giphy.gif?cid=ecf05e475gx2o4iiqniwkvivgm3gj6gn0uxitakhwdt2znr9&rid=giphy.gif&ct=g" width="480" height="150" frameBorder="0" alt="animated" />
+   <img src="https://media3.giphy.com/media/l0Iy93fzhI5okQIPm/giphy.gif?cid=ecf05e475gx2o4iiqniwkvivgm3gj6gn0uxitakhwdt2znr9&rid=giphy.gif&ct=g"  frameBorder="0" alt="animated" />
 </p>
 
 ## Stats:
@@ -39,26 +39,3 @@
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=100&section=footer)
-
-
-<h3> Original image: </h3>
-<img
-    src="https://tinyurl.com/k764en3w"
-    >
-<h3> Cropped image: </h3>
-<div class="cropped">
-    <img
-        src="https://tinyurl.com/k764en3w"
-        >
-</div>
-
-.cropped {
-     width: 150px;
-     height: 150px;
-     overflow: hidden;
-     border: 5px solid black;
-}
-
- .cropped img {
-     margin: -10px 0px 0px -180px;
-}
