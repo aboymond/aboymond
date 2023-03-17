@@ -1,9 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&color=gradient&height=100)
 
-
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-
 ## Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboymond&show_icons=true&theme=dracula)
