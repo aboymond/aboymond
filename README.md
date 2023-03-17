@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&color=gradient&height=100)
 
 <p align="center">
-   <img src="https://giphy.com/embed/l0Iy93fzhI5okQIPm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RJFilmSchool-arcade-videogame-l0Iy93fzhI5okQIPm">via GIPHY</a></p>" alt="animated" />
+   <img src="https://giphy.com/embed/l0Iy93fzhI5okQIPm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RJFilmSchool-arcade-videogame-l0Iy93fzhI5okQIPm">via alt="animated" />
 </p>
 
 ## Stats:
