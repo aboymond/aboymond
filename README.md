@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&color=gradient&height=100&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&color=gradient&height=100)
 
 ## Stats:
 
