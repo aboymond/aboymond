@@ -1,5 +1,5 @@
 <p align="center">
-![header](https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&color=gradient&height=100)
+<img src (https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&color=gradient&height=100)/>
 </p>
 
 <p align="center">
