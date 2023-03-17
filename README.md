@@ -27,4 +27,4 @@
 
 ![Snake animation](https://github.com/aboymond/aboymond/blob/output/github-contribution-grid-snake.svg)
 
-![footer](https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=100)
+![footer](https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=100&section=footer)
