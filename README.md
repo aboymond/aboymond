@@ -32,7 +32,6 @@
 
 <a href="https://www.linkedin.com/in/alexandre-boymond-005624184/">
   <img height="50" align="center" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-  ![footer](https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=100&section=footer)
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=100&section=footer)
