@@ -1,10 +1,10 @@
 
-### Stats:
+## Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboymond&show_icons=true&theme=dracula)
 
 
-### Experiences:
+## Experiences:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -20,7 +20,8 @@
 <img src="https://img.icons8.com/color/2x/cinema-4d.png" alt="c4d" width="45" height="45"/>
 </p>
 
-### Historique de commit:
+
+## Historique de commit:
 
 ![Snake animation](https://github.com/aboymond/aboymond/blob/output/github-contribution-grid-snake.svg)
 
