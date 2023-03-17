@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&color=gradient&height=100)
 
 <p align="center">
-  ![](https://media.tenor.com/rf6V3V83et8AAAAC/synthwave-jr.gif)
+   <img src="https://media.tenor.com/rf6V3V83et8AAAAC/synthwave-jr.gif" alt="animated" />
 </p>
 
 ## Stats:
