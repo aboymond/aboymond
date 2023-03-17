@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&color=gradient&height=100)
+![header](https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&&customColorList=0,1,2&height=100)
 
 <p align="center">
    <img src="https://media3.giphy.com/media/l0Iy93fzhI5okQIPm/giphy.gif?cid=ecf05e475gx2o4iiqniwkvivgm3gj6gn0uxitakhwdt2znr9&rid=giphy.gif&ct=g" width="120%"  frameBorder="0" alt="animated" />
