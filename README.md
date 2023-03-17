@@ -39,3 +39,26 @@
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=100&section=footer)
+
+
+<h3> Original image: </h3>
+<img
+    src="https://tinyurl.com/k764en3w"
+    >
+<h3> Cropped image: </h3>
+<div class="cropped">
+    <img
+        src="https://tinyurl.com/k764en3w"
+        >
+</div>
+
+.cropped {
+     width: 150px;
+     height: 150px;
+     overflow: hidden;
+     border: 5px solid black;
+}
+
+ .cropped img {
+     margin: -10px 0px 0px -180px;
+}
