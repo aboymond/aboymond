@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?text=HelloWord!&animation=fadeIn&type=waving&color=gradient&height=100)
 
 <p align="center">
-   <img src="https://media3.giphy.com/media/VSPu5XnenEkNy/giphy.gif?cid=ecf05e47v60kv05o5uuawvx6vvs1rx3m0vjgt6m8b73ohskr&rid=giphy.gif&ct=g" alt="animated" />
+   <img src="https://gfycat.com/improbableleafygiantschnauzer" alt="animated" />
 </p>
 
 ## Stats:
