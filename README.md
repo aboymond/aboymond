@@ -45,4 +45,6 @@
 
 <img src="https://github.com/aboymond/aboymond/blob/main/segfaultban.png" alt="segfault"/>
 
+<!--
 ![footer](https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=100&section=footer)
+-->
