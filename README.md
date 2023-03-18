@@ -4,7 +4,7 @@
 </p>
 -->
 
-<img src="(https://github.com/aboymond/aboymond/blob/main/helloworld.png" alt="helloworld"/>
+<img src="https://github.com/aboymond/aboymond/blob/main/helloworld.png" alt="helloworld"/>
 
 
 ![header](https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=gradient&height=100)
