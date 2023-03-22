@@ -12,12 +12,11 @@
 
 ## Stats:
 
-<p align="center">
+<center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboymond&show_icons=true&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboymond&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
+</center>
 
 ## Experiences:
 
