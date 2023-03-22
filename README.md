@@ -15,7 +15,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aboymond&show_icons=true&theme=blue-green" alt="Anurag's GitHub stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboymond&layout=compact&theme=blue-green)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboymond&layout=compact&theme=blue-green)
 </div>
 
 ## Experiences:
