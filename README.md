@@ -13,7 +13,7 @@
 ## Stats:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aboymond&show_icons=true&theme=blue-green" alt="Anurag's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=aboymond&show_icons=true&theme=blue-green" align="center" alt="Anurag's GitHub stats">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboymond&show_icons=true&theme=blue-green)]
 
 
