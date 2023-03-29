@@ -10,6 +10,7 @@
 ![header](https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=gradient&height=100)
 -->
 
+<!--
 ## Stats:
 
 <div align="center">
@@ -17,7 +18,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboymond&layout=compact&theme=blue-green)
 </div>
-
+-->
 ## Experiences:
 
 <p align="center">
