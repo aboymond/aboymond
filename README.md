@@ -35,11 +35,11 @@
 <img src="https://img.icons8.com/color/2x/cinema-4d.png" alt="c4d" width="45" height="45"/>
 </p>
 
-
+<!--
 ## Historique de commit:
 
 ![Snake animation](https://github.com/aboymond/aboymond/blob/output/github-contribution-grid-snake.svg)
-
+-->
 
 ## Reseaux:
 
